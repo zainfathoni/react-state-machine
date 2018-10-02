@@ -1,7 +1,7 @@
 {
   "private": true,
   "version": "1.0.0",
-  "description": "Deck created with mdx-deck",
+  "description": "Boosting Confidence in React with Finite State Machines",
   "scripts": {
     "start": "mdx-deck deck.mdx",
     "build": "mdx-deck build deck.mdx",
@@ -10,7 +10,7 @@
     "help": "mdx-deck"
   },
   "keywords": [],
-  "author": "Brent Jackson",
+  "author": "Zain Fathoni",
   "license": "MIT",
   "devDependencies": {
     "mdx-deck": "^1.6.7"
