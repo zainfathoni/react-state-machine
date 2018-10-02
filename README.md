@@ -1,7 +1,6 @@
+# react-state-machine
 
-# mdx-deck basic template
-
-This was generated with [mdx-deck][]'s `npm init deck` command.
+Boosting Confidence in React with Finite State Machines
 
 ## Development
 
